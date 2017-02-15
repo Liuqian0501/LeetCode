@@ -4,7 +4,7 @@ public class MaxConsecutiveOnes {
 	public static void main(String[] args) {
 	// TODO Auto-generated method stub
 		int[] nums = {1,1,1,0,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1};
-		//Compare algorithm
+		//Compare algorithms
 
 		//method 1
 		long startTime = System.nanoTime();
