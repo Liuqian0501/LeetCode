@@ -49,10 +49,7 @@ public class MaxConsecutiveOnes {
 		for(int i:nums){
 			if (i==1) {
 				cons++;
-
-				if(maxCons<cons){
-					maxCons = cons;
-				}
+				maxCons = maxCons >= cons ? maxCons : cons; //slower
 			}else{
 				cons = 0;
 			}
