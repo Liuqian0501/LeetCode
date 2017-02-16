@@ -7,11 +7,11 @@ public class FindAllNumbersDisappearedinanArray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int[] nums = {1,2,3,3,3,3,6,8};
+	int[] nums = {1,2,3,3,3,3,6,8};
     	//Compare algorithm
-		//method 1
-		long startTime = System.nanoTime();
-		List<Integer> max = null;
+	//method 1
+	long startTime = System.nanoTime();
+	List<Integer> max = null;
     	max = findDisappearedNumbers(nums);
     	System.out.println(max);
     	long endTime = System.nanoTime();
