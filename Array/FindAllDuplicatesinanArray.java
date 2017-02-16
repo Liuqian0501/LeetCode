@@ -6,12 +6,12 @@ import java.util.List;
 public class FindAllDuplicatesinanArray {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		int[] nums1 = {1,1,2,3,4,6,7,7};
+	// TODO Auto-generated method stub
+	int[] nums1 = {1,1,2,3,4,6,7,7};
     	//Compare algorithm
-		//method 1
-		long startTime = System.nanoTime();
-		List<Integer> max = null;
+	//method 1
+	long startTime = System.nanoTime();
+	List<Integer> max = null;
     	max = findDisappearedNumbers(nums1);
     	System.out.println(max);
     	long endTime = System.nanoTime();
