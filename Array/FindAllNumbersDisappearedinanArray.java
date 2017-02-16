@@ -1,36 +1,9 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
-
+//@authur Qian Liu
 
 public class FindAllNumbersDisappearedinanArray {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-<<<<<<< HEAD
-		int[] nums = {1,2,3,3,3,3,6,8};
-    	//Compare algorithm
-		//method 1
-		long startTime = System.nanoTime();
-		List<Integer> max = null;
-=======
-	int[] nums = {1,2,3,3,3,3,6,8};
-    	//Compare algorithm
-	//method 1
-	long startTime = System.nanoTime();
-	List<Integer> max = null;
->>>>>>> 507d7653f4aa5d05e1885da921b789ea055545ee
-    	max = findDisappearedNumbers(nums);
-    	System.out.println(max);
-    	long endTime = System.nanoTime();
-    	System.out.println("Took "+(endTime - startTime) + " ns"); 
-    	//method 2
-    	long startTime2 = System.nanoTime();
-    	max = findDisappearedNumbers2(nums);
-    	System.out.println(max);
-    	long endTime2 = System.nanoTime();
-    	System.out.println("2 Took "+(endTime2 - startTime2) + " ns"); 
-	}
 
     public static List<Integer> findDisappearedNumbers(int[] nums) {
     	//List<Integer> range = IntStream.range(1, nums.length+1).boxed().collect(Collectors.toList());
@@ -78,4 +51,27 @@ public class FindAllNumbersDisappearedinanArray {
         }
         return result;
     }
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int[] nums = {1,2,3,3,3,3,6,8};
+    	//Compare algorithm
+		//method 1
+		long startTime = System.nanoTime();
+		List<Integer> max = null;
+	int[] nums = {1,2,3,3,3,3,6,8};
+    	//Compare algorithm
+	//method 1
+	long startTime = System.nanoTime();
+	List<Integer> max = null;
+    	max = findDisappearedNumbers(nums);
+    	System.out.println(max);
+    	long endTime = System.nanoTime();
+    	System.out.println("Took "+(endTime - startTime) + " ns"); 
+    	//method 2
+    	long startTime2 = System.nanoTime();
+    	max = findDisappearedNumbers2(nums);
+    	System.out.println(max);
+    	long endTime2 = System.nanoTime();
+    	System.out.println("2 Took "+(endTime2 - startTime2) + " ns"); 
+	}
 }
