@@ -19,4 +19,4 @@ My LeetCode Solutions in JAVA
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |15|[MostFrequentSubtreeSum](https://leetcode.com/problems/most-frequent-subtree-sum/)| [JAVA](./Hash Table/MostFrequentSubtreeSum)|Medium|
-|500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)| [JAVA](./Hash Table/KeyboardRow.java)|Medium|
+|500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)| [JAVA](./Hash Table/KeyboardRow.java)|Easy|
