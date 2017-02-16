@@ -15,3 +15,7 @@ My LeetCode Solutions in JAVA
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)| [JAVA](./Array/RandomizedSet.java)|Medium|
 |380|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)| [JAVA](./Array/RandomizedCollection.java)|Hard|
 
+###Hash Table
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|15|[MostFrequentSubtreeSum](https://leetcode.com/problems/most-frequent-subtree-sum/)| [JAVA](./Hash Table/MostFrequentSubtreeSum)|Medium|
