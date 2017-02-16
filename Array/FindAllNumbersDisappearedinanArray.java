@@ -7,10 +7,8 @@ public class FindAllNumbersDisappearedinanArray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
 		int[] nums = {1,2,3,3,3,3,6,8};
     	//Compare algorithm
-		
 		//method 1
 		long startTime = System.nanoTime();
 		List<Integer> max = null;
@@ -18,7 +16,6 @@ public class FindAllNumbersDisappearedinanArray {
     	System.out.println(max);
     	long endTime = System.nanoTime();
     	System.out.println("Took "+(endTime - startTime) + " ns"); 
-    	
     	//method 2
     	long startTime2 = System.nanoTime();
     	max = findDisappearedNumbers2(nums);
