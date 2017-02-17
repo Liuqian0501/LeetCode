@@ -15,6 +15,7 @@ My LeetCode Solutions in JAVA
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)| [JAVA](./Array/RandomizedSet.java)|Medium|
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)| [JAVA](./Array/RandomizedCollection.java)|Hard|
 |283|[MoveZeroes](https://leetcode.com/problems/move-zeroes/)| [JAVA](./Array/MoveZeroes.java)|Easy|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)| [JAVA](./Array/MissingNumber.java)|Easy|
 
 
 ###Hash Table
