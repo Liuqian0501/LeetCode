@@ -13,7 +13,8 @@ My LeetCode Solutions in JAVA
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)| [JAVA](./Array/FindAllDuplicatesinanArray.java)|Medium|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)| [JAVA](./Array/ThirdMaximumNumber.java)|Easy|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)| [JAVA](./Array/RandomizedSet.java)|Medium|
-|380|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)| [JAVA](./Array/RandomizedCollection.java)|Hard|
+|381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)| [JAVA](./Array/RandomizedCollection.java)|Hard|
+|283|[MoveZeroes](https://leetcode.com/problems/move-zeroes/)| [JAVA](./Array/MoveZeroes.java)|Easy|
 
 ###Hash Table
 | # | Title | Solution | Difficulty |
