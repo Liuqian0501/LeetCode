@@ -10,7 +10,7 @@ public class ProductofArrayExceptSelf {
     		if (i==0) {
 				numZeros++;
 				continue;
-			}
+		}
     		prod *=i;
     	}
     	for (int i = 0; i < nums.length; i++) {
@@ -29,12 +29,12 @@ public class ProductofArrayExceptSelf {
     }
 	public static void main(String args[]) {
 		int[] str = {1,2,3,4,5};
-    	long startTime = System.nanoTime();
-    	int[] a = productExceptSelf(str);
-    	long endTime = System.nanoTime();
-    	System.out.println("Took "+(endTime - startTime) + " ns"); 
-    	for (int i : a) {
-    		System.out.print(i+" ");
+		long startTime = System.nanoTime();
+		int[] a = productExceptSelf(str);
+		long endTime = System.nanoTime();
+		System.out.println("Took "+(endTime - startTime) + " ns"); 
+		for (int i : a) {
+			System.out.print(i+" ");
 		}
 	}
 }
