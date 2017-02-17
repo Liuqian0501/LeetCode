@@ -17,6 +17,8 @@ My LeetCode Solutions in JAVA
 |283|[MoveZeroes](https://leetcode.com/problems/move-zeroes/)| [JAVA](./Array/MoveZeroes.java)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)| [JAVA](./Array/MissingNumber.java)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| [JAVA](./Array/ProductofArrayExceptSelf.java)|Medium|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)| [JAVA](./Array/MajorityElement.java)|Easy|
+
 
 
 
