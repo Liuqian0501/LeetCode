@@ -1,6 +1,8 @@
 
 
-
+/*
+ * @authur Qian Liu
+ */
 public class IslandPerimeter {
     public static int islandPerimeter(int[][] grid) {
     	int width = grid.length, length = grid[0].length;
