@@ -36,4 +36,6 @@ My LeetCode Solutions in JAVA
 ###Linked list
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|15|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [JAVA](./Linked List/LinkedListCycle.java)|Easy|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [JAVA](./Linked List/LinkedListCycle.java)|Easy|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [JAVA](./Linked List/DeleteNodeinaLinkedList.java)|Easy|
+
