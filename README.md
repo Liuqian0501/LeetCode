@@ -29,4 +29,5 @@ My LeetCode Solutions in JAVA
 |15|[MostFrequentSubtreeSum](https://leetcode.com/problems/most-frequent-subtree-sum/)| [JAVA](./Hash Table/MostFrequentSubtreeSum)|Medium|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)| [JAVA](./Hash Table/KeyboardRow.java)|Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)| [JAVA](./Hash Table/IslandPerimeter.java)|Easy|
+|447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)| [JAVA](./Hash Table/NumberofBoomerangs.java)|Easy|
 
