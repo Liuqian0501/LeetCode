@@ -36,4 +36,4 @@ My LeetCode Solutions in JAVA
 ###Linked list
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|15|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [JAVA](./Linked Litst/LinkedListCycle.java)|Easy|
+|15|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [JAVA](./Linked List/LinkedListCycle.java)|Easy|
