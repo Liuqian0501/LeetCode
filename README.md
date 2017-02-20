@@ -39,5 +39,6 @@ My LeetCode Solutions in JAVA
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [JAVA](./Linked List/LinkedListCycle.java)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [JAVA](./Linked List/DeleteNodeinaLinkedList.java)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [JAVA](./Linked List/IntersectionofTwoLinkedLists.java)|Easy|
-
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [JAVA](./Linked List/DeleteDuplicates.java)|Easy|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [JAVA](./Linked List/RemoveElements.java)|Easy|
 
