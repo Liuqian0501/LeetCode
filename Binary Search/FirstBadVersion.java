@@ -24,7 +24,7 @@ public class FirstBadVersion {
 				if(isBadVersion(mid - 1) == false){
 					return mid;
 				}
-				tail = mid;
+				tail = mid - 1;
 			}else{
 				head = mid+1;
 			}
