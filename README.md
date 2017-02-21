@@ -19,7 +19,7 @@ My LeetCode Solutions in JAVA
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| [JAVA](./Array/ProductofArrayExceptSelf.java)|Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)| [JAVA](./Array/MajorityElement.java)|Easy|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)| [JAVA](./Array/MajorityElement2.java)|Medium|
-|21|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [JAVA](./Array/MergeSortedArray.java)|Easy|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [JAVA](./Array/MergeSortedArray.java)|Easy|
 
 
 
