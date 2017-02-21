@@ -43,6 +43,7 @@ My LeetCode Solutions in JAVA
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [JAVA](./Linked List/RemoveElements.java)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [JAVA](./Linked List/ReverseList.java)|Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [JAVA](./Linked List/IsPalindrome.java)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [JAVA](./Linked List/MergeTwoSortedLists.java)|Easy|
 
 
 ###Math
