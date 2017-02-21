@@ -45,3 +45,7 @@ My LeetCode Solutions in JAVA
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [JAVA](./Linked List/IsPalindrome.java)|Easy|
 
 
+###Math
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [JAVA](./Math/IsPalindrome.java)|Easy|
