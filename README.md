@@ -10,6 +10,7 @@ My LeetCode Solutions in JAVA
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [JAVA](./Array/TwoSum.java)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [JAVA](./Array/TwoSumII.java)|Easy|
 |15|[Three Sum](https://leetcode.com/problems/3sum/)| [JAVA](./Array/ThreeSum.java)|Medium|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/?tab=Description)| [JAVA](./Array/ThreeSumClosest.java)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum/)| [JAVA](./Array/FourSum.java)|Medium|
 |495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)| [JAVA](./Array/TeemoAttacking.java)|Medium|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)| [JAVA](./Array/MaxConsecutiveOnes.java)|Easy|
