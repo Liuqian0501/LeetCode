@@ -58,3 +58,8 @@ My LeetCode Solutions in JAVA
 |---| ----- | -------- | ---------- |
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [JAVA](./String/ValidPalindrome.java)|Easy|
 
+###Binary Search
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [JAVA](./Binary Search/FirstBadVersion.java)|Easy|
+
