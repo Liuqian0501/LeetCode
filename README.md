@@ -63,6 +63,8 @@ My LeetCode Solutions in JAVA
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [JAVA](./Math/IsPalindrome.java)|Easy|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)| [JAVA](./Math/PlusOne.java)|Easy|
+
 
 ###String
 | # | Title | Solution | Difficulty |
