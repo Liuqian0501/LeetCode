@@ -34,7 +34,8 @@ My LeetCode Solutions in JAVA
 ###Hash Table
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|219|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate-ii/?tab=Description)| [JAVA](./Array/ContainsDuplicate.java)|Easy|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate-ii/?tab=Description)| [JAVA](./Array/ContainsDuplicate.java)|Easy|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [JAVA](./Array/ContainsDuplicateII.java)|Easy|
 |508|[MostFrequentSubtreeSum](https://leetcode.com/problems/most-frequent-subtree-sum/)| [JAVA](./Hash Table/MostFrequentSubtreeSum)|Medium|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)| [JAVA](./Hash Table/KeyboardRow.java)|Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)| [JAVA](./Hash Table/IslandPerimeter.java)|Easy|
