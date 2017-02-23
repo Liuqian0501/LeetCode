@@ -56,6 +56,7 @@ My LeetCode Solutions in JAVA
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [JAVA](./Linked List/ReverseList.java)|Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [JAVA](./Linked List/IsPalindrome.java)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [JAVA](./Linked List/MergeTwoSortedLists.java)|Easy|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [JAVA](./Linked List/RotateList.java)|Medium|
 
 
 ###Math
