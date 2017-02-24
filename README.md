@@ -15,6 +15,7 @@ My LeetCode Solutions in JAVA
 |18|[4Sum](https://leetcode.com/problems/4sum/)| [JAVA](./Array/FourSum.java)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [JAVA](./Array/RemoveDuplicatesfromSortedArray.java)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [JAVA](./Array/RemoveElement.java)|Easy|
+|136|[Single Number](https://leetcode.com/problems/single-number/)| [JAVA](./Array/SingleNumber.java)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?tab=Description)| [JAVA](./Array/BestTimetoBuyandSellStock.java)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/?tab=Description)| [JAVA](./Array/BestTimetoBuyandSellStockII.java)|Easy|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/?tab=Description)| [JAVA](./Array/BestTimetoBuyandSellStockIII.java)|Hard|
