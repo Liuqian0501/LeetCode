@@ -95,4 +95,5 @@ My LeetCode Solutions in JAVA
 |---| ----- | -------- | ---------- |
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/?tab=Description)| [JAVA](./Dynamic Programming/RangeSumQueryImmutable.java)|Easy|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/?tab=Description)| [JAVA](./Dynamic Programming/RangeSumQuery2DImmutable.java)|Medium|
+|198|[House Robber](https://leetcode.com/problems/house-robber/?tab=Descriptionn)| [JAVA](./Dynamic Programming/HouseRobber.java)|Easy|
 
