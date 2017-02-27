@@ -53,7 +53,6 @@ My LeetCode Solutions in JAVA
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)| [JAVA](./Hash Table/FindAllAnagramsinaString.java)|Easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/?tab=Description)| [JAVA](./Hash Table/FourSumII.java)|Medium|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/?tab=Description)| [JAVA](./Hash Table/LongestPalindrome.java)|Easy|
-|365|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/?tab=Description)| [JAVA](./Hash Table/IsPerfectSquare.java)|Easy|
 
 
 
@@ -87,4 +86,6 @@ My LeetCode Solutions in JAVA
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [JAVA](./Binary Search/FirstBadVersion.java)|Easy|
+|365|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/?tab=Description)| [JAVA](./Binary Search/IsPerfectSquare.java)|Easy|
+|441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/?tab=Description)| [JAVA](./Binary Search/ArrangeCoins.java)|Easy|
 
