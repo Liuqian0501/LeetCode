@@ -105,4 +105,5 @@ My LeetCode Solutions in JAVA
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/?tab=Description)| [JAVA](./Tree/BinaryTreePaths.java)|Easy|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/?tab=Description)| [JAVA](./Tree/PathSumII.java)|Medium|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/?tab=Description)| [JAVA](./Tree/PathSum.java)|Easy|
+|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/?tab=Description)| [JAVA](./Tree/PathSumIII.java)|Easy|
 
