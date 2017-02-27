@@ -101,4 +101,5 @@ My LeetCode Solutions in JAVA
 ###Tree
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|213|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/?tab=Description)| [JAVA](./Tree/BinaryTreeLevelOrderTraversalII.java)|Medium|
+|213|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/?tab=Description)| [JAVA](./Tree/BinaryTreeLevelOrderTraversalII.java)|Easy|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/?tab=Description)| [JAVA](./Tree/BinaryTreePaths.java)|Easy|
