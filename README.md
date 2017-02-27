@@ -88,4 +88,4 @@ My LeetCode Solutions in JAVA
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [JAVA](./Binary Search/FirstBadVersion.java)|Easy|
 |365|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/?tab=Description)| [JAVA](./Binary Search/IsPerfectSquare.java)|Easy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/?tab=Description)| [JAVA](./Binary Search/ArrangeCoins.java)|Easy|
-
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)| [JAVA](./Binary Search/GuessNumber.java)|Easy|
