@@ -94,3 +94,5 @@ My LeetCode Solutions in JAVA
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/?tab=Description)| [JAVA](./String/RangeSumQueryImmutable.java)|Easy|
+|304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/?tab=Description| [JAVA](./String/RangeSumQuery2DImmutable.java)|Medium|
+
