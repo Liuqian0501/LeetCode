@@ -85,7 +85,9 @@ My LeetCode Solutions in JAVA
 ###Bit Manipulation
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|342|[Power of Foure](https://leetcode.com/problems/power-of-four/?tab=Description)| [JAVA](./Bit Manipulation/IsPowerOfFour.java)|Easy|
+|342|[Power of Four](https://leetcode.com/problems/power-of-four/?tab=Description)| [JAVA](./Bit Manipulation/IsPowerOfFour.java)|Easy|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/?tab=Description)| [JAVA](./Bit Manipulation/IsPowerOfTwo.java)|Easy|
+
 
 ###Binary Search
 | # | Title | Solution | Difficulty |
