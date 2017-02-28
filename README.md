@@ -109,4 +109,5 @@ My LeetCode Solutions in JAVA
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)| [JAVA](./Tree/SumofLeftLeaves.java)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/?tab=Description)| [JAVA](./Tree/MinimumDepthofBinaryTree.java)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/?tab=Description)| [JAVA](./Tree/MaximumDepthofBinaryTree.java)|Easy|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/?tab=Description)| [JAVA](./Tree/BalancedBinaryTree.java)|Easy|
 
