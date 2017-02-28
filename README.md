@@ -88,6 +88,7 @@ My LeetCode Solutions in JAVA
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/?tab=Description)| [JAVA](./Bit Manipulation/IsPowerOfFour.java)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/?tab=Description)| [JAVA](./Bit Manipulation/IsPowerOfTwo.java)|Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/?tab=Description)| [JAVA](./Bit Manipulation/IsPowerOfThree.java)|Easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/?tab=Description)| [JAVA](./Bit Manipulation/HammingWeight.java)|Easy|
 
 
 ###Binary Search
