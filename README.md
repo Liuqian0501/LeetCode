@@ -93,6 +93,7 @@ My LeetCode Solutions in JAVA
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/?tab=Description)| [JAVA](./Bit Manipulation/HammingDistance.java)|Easy|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/?tab=Description)| [JAVA](./Bit Manipulation/BinaryWatch.java)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse bits/?tab=Description)| [JAVA](./Bit Manipulation/ReverseBits.java)|Easy|
+|476|[Number Complement](https://leetcode.com/problems/number-complement/?tab=Description)| [JAVA](./Bit Manipulation/NumberComplement.java)|Easy|
 
 
 ###Binary Search
