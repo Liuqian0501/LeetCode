@@ -82,6 +82,11 @@ My LeetCode Solutions in JAVA
 |---| ----- | -------- | ---------- |
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [JAVA](./String/ValidPalindrome.java)|Easy|
 
+###Bit Manipulation
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|342|[Power of Foure](https://leetcode.com/problems/power-of-four/?tab=Description)| [JAVA](./Bit Manipulation/IsPowerOfFour.java)|Easy|
+
 ###Binary Search
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
