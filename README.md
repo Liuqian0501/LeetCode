@@ -106,5 +106,6 @@ My LeetCode Solutions in JAVA
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/?tab=Description)| [JAVA](./Tree/PathSumII.java)|Medium|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/?tab=Description)| [JAVA](./Tree/PathSum.java)|Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/?tab=Description)| [JAVA](./Tree/PathSumIII.java)|Easy|
-|437|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)| [JAVA](./Tree/SumofLeftLeaves.java)|Easy|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)| [JAVA](./Tree/SumofLeftLeaves.java)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/?tab=Description)| [JAVA](./Tree/MinimumDepthofBinaryTree.java)|Easy|
 
