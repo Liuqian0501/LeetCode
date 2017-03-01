@@ -73,6 +73,7 @@ My LeetCode Solutions in JAVA
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [JAVA](./Linked List/IsPalindrome.java)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [JAVA](./Linked List/MergeTwoSortedLists.java)|Easy|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [JAVA](./Linked List/RotateList.java)|Medium|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| [JAVA](./Linked List/CopyListwithRandomPointer.java)|Medium|
 
 
 ###Math
