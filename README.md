@@ -122,6 +122,10 @@ My LeetCode Solutions in JAVA
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/?tab=Descriptionn)| [JAVA](./Dynamic Programming/HouseRobberII.java)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/?tab=Description)| [JAVA](./Dynamic Programming/ClimbingStairs.java)|Medium|
 
+###Two Pointers
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|475|[Heaters](https://leetcode.com/problems/heaters/?tab=Description)| [JAVA](./Two Pointers/heaters.java)|Easy|
 
 ###Tree
 | # | Title | Solution | Difficulty |
