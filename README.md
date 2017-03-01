@@ -82,6 +82,8 @@ My LeetCode Solutions in JAVA
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [JAVA](./Math/IsPalindrome.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)| [JAVA](./Math/PlusOne.java)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [JAVA](./Math/ReverseInteger.java)|Easy|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)| [JAVA](./Math/ExcelSheetColumnTitle.java)|Easy|
+
 
 
 ###String
