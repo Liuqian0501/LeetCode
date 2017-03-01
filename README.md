@@ -37,7 +37,12 @@ My LeetCode Solutions in JAVA
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)| [JAVA](./Array/MajorityElement2.java)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [JAVA](./Array/MergeSortedArray.java)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [JAVA](./Array/RotateArray.java)|Easy|
-
+|243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/?tab=Description
+)| [JAVA](./Array/ShortestWordDistance.java)|Easy|
+|244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/?tab=Description
+)| [JAVA](./Array/ShortestWordDistanceII.java)|Medium|
+|245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/?tab=Description
+)| [JAVA](./Array/ShortestWordDistanceIII.java)|Medium|
 
 
 
