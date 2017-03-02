@@ -151,4 +151,6 @@ My LeetCode Solutions in JAVA
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/?tab=Description)| [JAVA](./Tree/MinimumDepthofBinaryTree.java)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/?tab=Description)| [JAVA](./Tree/MaximumDepthofBinaryTree.java)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/?tab=Description)| [JAVA](./Tree/BalancedBinaryTree.java)|Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/?tab=Description)| [JAVA](./Tree/SymmetricTree.java)|Easy|
+
 
