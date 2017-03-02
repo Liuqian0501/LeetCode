@@ -133,6 +133,10 @@ My LeetCode Solutions in JAVA
 |256|[Paint House](https://leetcode.com/problems/paint-house/?tab=Description)| [JAVA](./Dynamic Programming/PaintHouse.java)|Medium|
 |265|[Paint House II](https://leetcode.com/problems/paint-house-ii/?tab=Description)| [JAVA](./Dynamic Programming/PaintHouseII.java)|Hard|
 
+###Back Tracking
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [JAVA](./Back Tracking/LetterCombinations.java)|Medium|
 
 ###Two Pointers
 | # | Title | Solution | Difficulty |
