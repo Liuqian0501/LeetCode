@@ -56,7 +56,10 @@ My LeetCode Solutions in JAVA
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/?tab=Description)| [JAVA](./Hash Table/FourSumII.java)|Medium|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/?tab=Description)| [JAVA](./Hash Table/LongestPalindrome.java)|Easy|
 
-
+###Divide and Conquer
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/?tab=Description)| [JAVA](./Divide and Conquer/FindKthLargest.java)|Easy|
 
 ###Linked list
 | # | Title | Solution | Difficulty |
