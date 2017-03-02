@@ -81,6 +81,7 @@ My LeetCode Solutions in JAVA
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [JAVA](./Math/ReverseInteger.java)|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)| [JAVA](./Math/ExcelSheetColumnTitle.java)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [JAVA](./Math/ExcelSheetColumnNumber.java)|Easy|
+|372|[Super Pow](https://leetcode.com/problems/super-pow/)| [JAVA](./Math/SuperPow.java)|medium|
 
 
 ###String
