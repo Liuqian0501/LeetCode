@@ -130,6 +130,8 @@ My LeetCode Solutions in JAVA
 |198|[House Robber](https://leetcode.com/problems/house-robber/?tab=Descriptionn)| [JAVA](./Dynamic Programming/HouseRobber.java)|Easy|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/?tab=Descriptionn)| [JAVA](./Dynamic Programming/HouseRobberII.java)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/?tab=Description)| [JAVA](./Dynamic Programming/ClimbingStairs.java)|Medium|
+|256|[Paint House](https://leetcode.com/problems/paint-house/?tab=Description)| [JAVA](./Dynamic Programming/PaintHouse.java)|Medium|
+
 
 ###Two Pointers
 | # | Title | Solution | Difficulty |
