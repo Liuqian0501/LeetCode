@@ -120,6 +120,7 @@ My LeetCode Solutions in JAVA
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)| [JAVA](./Binary Search/GuessNumber.java)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [JAVA](./Binary Search/Sqrtx.java)|Easy|
 |50|[Pow(x,n)](https://leetcode.com/problems/powx-n/)| [JAVA](./Binary Search/powxn.java)|Medium|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [JAVA](./Binary Search/Searcha2DMatrix.java)|Medium|
 
 ###Dynamic Programming
 | # | Title | Solution | Difficulty |
