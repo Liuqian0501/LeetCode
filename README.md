@@ -137,6 +137,8 @@ My LeetCode Solutions in JAVA
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [JAVA](./Back Tracking/LetterCombinations.java)|Medium|
+|294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/)| [JAVA](./Back Tracking/FlipGameII.java)|Medium|
+
 
 ###Two Pointers
 | # | Title | Solution | Difficulty |
