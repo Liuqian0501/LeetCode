@@ -138,6 +138,8 @@ My LeetCode Solutions in JAVA
 |---| ----- | -------- | ---------- |
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [JAVA](./Back Tracking/LetterCombinations.java)|Medium|
 |294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/)| [JAVA](./Back Tracking/FlipGameII.java)|Medium|
+|39|[CombinationSum](https://leetcode.com/problems/combination-sum/)| [JAVA](./Back Tracking/combinationSum.java)|Medium|
+
 
 
 ###Two Pointers
