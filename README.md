@@ -132,6 +132,8 @@ My LeetCode Solutions in JAVA
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/?tab=Description)| [JAVA](./Dynamic Programming/ClimbingStairs.java)|Medium|
 |256|[Paint House](https://leetcode.com/problems/paint-house/?tab=Description)| [JAVA](./Dynamic Programming/PaintHouse.java)|Medium|
 |265|[Paint House II](https://leetcode.com/problems/paint-house-ii/?tab=Description)| [JAVA](./Dynamic Programming/PaintHouseII.java)|Hard|
+|377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/?tab=Description)| [JAVA](./Dynamic Programming/CombinationSum4.java)|Medium|
+combinationSum4
 
 ###Back Tracking
 | # | Title | Solution | Difficulty |
