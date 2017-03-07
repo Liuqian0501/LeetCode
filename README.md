@@ -151,6 +151,12 @@ combinationSum4
 |---| ----- | -------- | ---------- |
 |475|[Heaters](https://leetcode.com/problems/heaters/?tab=Description)| [JAVA](./Two Pointers/heaters.java)|Easy|
 
+###Stack
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parenthese/?tab=Description)| [JAVA](./Stack/ValidParenteses.java)|Easy|
+
+
 ###Tree
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
