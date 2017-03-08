@@ -108,6 +108,7 @@ My LeetCode Solutions in JAVA
 |293|[Flip Game](https://leetcode.com/problems/flip-game/)| [JAVA](./String/FlipGame.java)|Easy|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)| [JAVA](./String/DetectCapital.java)|Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/?tab=Description)| [JAVA](./String/FirstUniqChar.java)|Easy|
+|459|[Repeated Substring Pattern](https://leetcode.com/problems/first-unique-character-in-a-string/?tab=Description)| [JAVA](./String/RepeatedSubstringPattern.java)|Easy|
 
 
 
