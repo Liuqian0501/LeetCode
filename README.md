@@ -80,6 +80,10 @@ My LeetCode Solutions in JAVA
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [JAVA](./Linked List/RotateList.java)|Medium|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| [JAVA](./Linked List/CopyListwithRandomPointer.java)|Medium|
 
+###Queue
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/?tab=Description)| [JAVA](./Queue/MovingAverage.java)|Easy|
 
 ###Math
 | # | Title | Solution | Difficulty |
