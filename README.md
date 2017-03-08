@@ -25,7 +25,7 @@ My LeetCode Solutions in JAVA
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)| [JAVA](./Array/MaxConsecutiveOnes.java)|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)| [JAVA](./Array/FindAllNumbersDisappearedinanArray.java)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [JAVA](./Array/PascalsTriangle.java)|Easy|
-|118|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [JAVA](./Array/PascalsTriangleII.java)|Easy|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [JAVA](./Array/PascalsTriangleII.java)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)| [JAVA](./Array/FindAllDuplicatesinanArray.java)|Medium|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)| [JAVA](./Array/ThirdMaximumNumber.java)|Easy|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)| [JAVA](./Array/RandomizedSet.java)|Medium|
@@ -40,7 +40,7 @@ My LeetCode Solutions in JAVA
 |243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/?tab=Description/)| [JAVA](./Array/ShortestWordDistance.java)|Easy|
 |244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/?tab=Description)| [JAVA](./Array/ShortestWordDistanceII.java)|Medium|
 |245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/?tab=Description)| [JAVA](./Array/ShortestWordDistanceIII.java)|Medium|
-|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/?tab=Description)| [JAVA](./Array/PascalsTriangleII.java)|Easy|
+
 
 
 ###Hash Table
