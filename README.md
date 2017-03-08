@@ -177,5 +177,6 @@ combinationSum4
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/?tab=Description)| [JAVA](./Tree/MaximumDepthofBinaryTree.java)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/?tab=Description)| [JAVA](./Tree/BalancedBinaryTree.java)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/?tab=Description)| [JAVA](./Tree/SymmetricTree.java)|Easy|
+|530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/?tab=Description)| [JAVA](./Tree/MinimumAbsoluteDifferenceinBST.java)|Easy|
 
 
