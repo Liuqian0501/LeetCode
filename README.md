@@ -190,5 +190,6 @@ combinationSum4
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/?tab=Description)| [JAVA](./Tree/BalancedBinaryTree.java)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/?tab=Description)| [JAVA](./Tree/SymmetricTree.java)|Easy|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/?tab=Description)| [JAVA](./Tree/MinimumAbsoluteDifferenceinBST.java)|Easy|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/?tab=Description)| [JAVA](./Tree/lowestCommonAncestor.java)|Easy|
 
 
