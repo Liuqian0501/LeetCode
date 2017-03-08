@@ -56,6 +56,8 @@ My LeetCode Solutions in JAVA
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/?tab=Description)| [JAVA](./Hash Table/FourSumII.java)|Medium|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/?tab=Description)| [JAVA](./Hash Table/LongestPalindrome.java)|Easy|
 |246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/?tab=Description)| [JAVA](./Hash Table/StrobogrammaticNumber.java)|Easy|
+|359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/?tab=Description)| [JAVA](./Hash Table/LoggerRateLimiter.java)|Easy|
+
 
 ###Divide and Conquer
 | # | Title | Solution | Difficulty |
