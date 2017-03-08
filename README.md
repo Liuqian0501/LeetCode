@@ -95,6 +95,8 @@ My LeetCode Solutions in JAVA
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [JAVA](./String/ValidPalindrome.java)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [JAVA](./String/ReverseString.java)|Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)| [JAVA](./String/ReverseVowelsofaString.java)|Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)| [JAVA](./String/AddBinary.java)|Easy|
+
 
 
 
