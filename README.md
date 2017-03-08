@@ -139,6 +139,8 @@ My LeetCode Solutions in JAVA
 |256|[Paint House](https://leetcode.com/problems/paint-house/?tab=Description)| [JAVA](./Dynamic Programming/PaintHouse.java)|Medium|
 |265|[Paint House II](https://leetcode.com/problems/paint-house-ii/?tab=Description)| [JAVA](./Dynamic Programming/PaintHouseII.java)|Hard|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/?tab=Description)| [JAVA](./Dynamic Programming/CombinationSum4.java)|Medium|
+|276|[Paint Fence](https://leetcode.com/problems/paint-fence/?tab=Description)| [JAVA](./Dynamic Programming/PaintFence.java)|Easy|
+
 combinationSum4
 
 ###Back Tracking
