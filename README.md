@@ -143,6 +143,8 @@ combinationSum4
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| [JAVA](./Back Tracking/CombinationSum.java)|Medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [JAVA](./Back Tracking/CombinationSum2.java)|Medium|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)| [JAVA](./Back Tracking/CombinationSum3.java)|Medium|
+|22|[Generate Parenthesis](https://leetcode.com/problems/generate-parenthesis/)| [JAVA](./Back Tracking/CgenerateParenthesis.java)|Medium|
+
 
 
 
