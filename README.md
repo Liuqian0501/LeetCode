@@ -40,7 +40,7 @@ My LeetCode Solutions in JAVA
 |243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/?tab=Description/)| [JAVA](./Array/ShortestWordDistance.java)|Easy|
 |244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/?tab=Description)| [JAVA](./Array/ShortestWordDistanceII.java)|Medium|
 |245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/?tab=Description)| [JAVA](./Array/ShortestWordDistanceIII.java)|Medium|
-
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/?tab=Description)| [JAVA](./Array/PascalsTriangleII.java)|Easy|
 
 
 ###Hash Table
