@@ -99,6 +99,7 @@ My LeetCode Solutions in JAVA
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [JAVA](./String/ReverseString.java)|Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)| [JAVA](./String/ReverseVowelsofaString.java)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [JAVA](./String/AddBinary.java)|Easy|
+|293|[Flip Game](https://leetcode.com/problems/flip-game/)| [JAVA](./String/FlipGame.java)|Easy|
 
 
 
