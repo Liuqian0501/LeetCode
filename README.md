@@ -61,7 +61,7 @@ My LeetCode Solutions in JAVA
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/?tab=Description)| [JAVA](./Hash Table/LongestPalindrome.java)|Easy|
 |246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/?tab=Description)| [JAVA](./Hash Table/StrobogrammaticNumber.java)|Easy|
 |359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/?tab=Description)| [JAVA](./Hash Table/LoggerRateLimiter.java)|Easy|
-
+|535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/?tab=Description)| [JAVA](./Hash Table/Codec.java)|Medium|
 
 ###Divide and Conquer
 | # | Title | Solution | Difficulty |
