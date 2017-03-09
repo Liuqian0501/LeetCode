@@ -95,6 +95,8 @@ My LeetCode Solutions in JAVA
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [JAVA](./Math/ExcelSheetColumnNumber.java)|Easy|
 |372|[Super Pow](https://leetcode.com/problems/super-pow/)| [JAVA](./Math/SuperPow.java)|medium|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/?tab=Description)| [JAVA](./Math/NthDigit.java)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/?tab=Description)| [JAVA](./Math/CountPrimes.java)|Easy|
+
 
 
 
