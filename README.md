@@ -42,6 +42,10 @@ My LeetCode Solutions in JAVA
 |245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/?tab=Description)| [JAVA](./Array/ShortestWordDistanceIII.java)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/?tab=Description)| [JAVA](./Array/ValidAnagram.java)|Easy|
 
+###BFS
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|529|[Minesweeper](https://leetcode.com/problems/minesweeper/?tab=Description)| [JAVA](./BFS/Minesweeper.java)|Medium|
 
 ###Hash Table
 | # | Title | Solution | Difficulty |
