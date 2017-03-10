@@ -62,6 +62,8 @@ My LeetCode Solutions in JAVA
 |246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/?tab=Description)| [JAVA](./Hash Table/StrobogrammaticNumber.java)|Easy|
 |359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/?tab=Description)| [JAVA](./Hash Table/LoggerRateLimiter.java)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/?tab=Description)| [JAVA](./Hash Table/Codec.java)|Medium|
+|49|[Group Anagrams](https://leetcode.com/problems/anagrams/?tab=Description)| [JAVA](./Hash Table/GroupAnagrams.java)|Medium|
+
 
 ###Divide and Conquer
 | # | Title | Solution | Difficulty |
