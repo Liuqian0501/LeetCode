@@ -90,6 +90,7 @@ My LeetCode Solutions in JAVA
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/?tab=Description)| [JAVA](./Queue/MovingAverage.java)|Easy|
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/?tab=Description)| [JAVA](./Queue/BinaryTreeRightSideView.java)|Medium|
 
 ###Math
 | # | Title | Solution | Difficulty |
