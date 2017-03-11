@@ -91,6 +91,8 @@ My LeetCode Solutions in JAVA
 |---| ----- | -------- | ---------- |
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/?tab=Description)| [JAVA](./Queue/MovingAverage.java)|Easy|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/?tab=Description)| [JAVA](./Queue/BinaryTreeRightSideView.java)|Medium|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/?tab=Description)| [JAVA](./Queue/PopulatingNextRightPointersinEachNode.java)|Medium|
+
 
 ###Math
 | # | Title | Solution | Difficulty |
