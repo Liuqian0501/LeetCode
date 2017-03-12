@@ -85,6 +85,8 @@ My LeetCode Solutions in JAVA
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [JAVA](./Linked List/MergeTwoSortedLists.java)|Easy|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [JAVA](./Linked List/RotateList.java)|Medium|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| [JAVA](./Linked List/CopyListwithRandomPointer.java)|Medium|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [JAVA](./Linked List/AddTwoNumbers.java)|Medium|
+
 
 ###Queue
 | # | Title | Solution | Difficulty |
