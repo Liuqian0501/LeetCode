@@ -180,6 +180,8 @@ combinationSum4
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [JAVA](./Back Tracking/CombinationSum2.java)|Medium|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)| [JAVA](./Back Tracking/CombinationSum3.java)|Medium|
 |22|[Generate Parenthesis](https://leetcode.com/problems/generate-parenthesis/)| [JAVA](./Back Tracking/CgenerateParenthesis.java)|Medium|
+|140|[Word Break II](https://leetcode.com/problems/word-break-ii/)| [JAVA](./Back Tracking/word-break-ii.java)|Hard|
+
 
 
 
