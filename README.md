@@ -71,6 +71,10 @@ My LeetCode Solutions in JAVA
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/?tab=Description)| [JAVA](./Divide and Conquer/FindKthLargest.java)|Easy|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2D-matrix-ii/?tab=Description)| [JAVA](./Divide and Conquer/Searcha2DMatrixII.java)|Medium|
 
+###DFS
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|139|[Word Break](https://leetcode.com/problems/word-break/)| [JAVA](./DFS/WordBreak/)|Medium|
 
 ###Linked list
 | # | Title | Solution | Difficulty |
