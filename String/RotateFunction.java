@@ -16,3 +16,25 @@ public class Solution {
         return max;
     }
 }
+
+
+// solution 2
+public class Solution {
+    public int maxRotateFunction(int[] A) {
+        //go through k = 0- n-1
+        if(A == null || A.length == 0) return 0;
+        int len = A.length;
+        int candidate = 0;
+        int sum = 0;
+        for(int j = 0; j < len; j++){
+            sum += A[j];
+            candidate += j*A[j];
+        }
+        int max = candidate;
+        for(int j = len - 1; j >= 0; j--){
+            candidate = candidate + sum - A.length*A[j];
+            max = (max > candidate) ? max : candidate;
+        }
+        return max;
+    }
+}
