@@ -107,6 +107,7 @@ My LeetCode Solutions in JAVA
 |372|[Super Pow](https://leetcode.com/problems/super-pow/)| [JAVA](./Math/SuperPow.java)|medium|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/?tab=Description)| [JAVA](./Math/NthDigit.java)|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/?tab=Description)| [JAVA](./Math/CountPrimes.java)|Easy|
+|396|[Rotate Function](https://leetcode.com/problems/rotate-function/?tab=Description)| [JAVA](./Math/RotateFunction.java)|Math|
 
 
 
@@ -206,5 +207,5 @@ combinationSum4
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/?tab=Description)| [JAVA](./Tree/SymmetricTree.java)|Easy|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/?tab=Description)| [JAVA](./Tree/MinimumAbsoluteDifferenceinBST.java)|Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/?tab=Description)| [JAVA](./Tree/lowestCommonAncestor.java)|Easy|
-
+|536|[Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/#/description)| [JAVA](./Tree/ConstructBinaryTreefromString.java)|Medium|
 
