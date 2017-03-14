@@ -168,8 +168,9 @@ My LeetCode Solutions in JAVA
 |265|[Paint House II](https://leetcode.com/problems/paint-house-ii/?tab=Description)| [JAVA](./Dynamic Programming/PaintHouseII.java)|Hard|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/?tab=Description)| [JAVA](./Dynamic Programming/CombinationSum4.java)|Medium|
 |276|[Paint Fence](https://leetcode.com/problems/paint-fence/?tab=Description)| [JAVA](./Dynamic Programming/PaintFence.java)|Easy|
+|472|[Concatenated Words](https://leetcode.com/problems/concatenated-words/#/description)| [JAVA](./Dynamic Programming/ConcatenatedWords.java)|Hard|
 
-combinationSum4
+
 
 ###Back Tracking
 | # | Title | Solution | Difficulty |
