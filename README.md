@@ -45,7 +45,13 @@ My LeetCode Solutions in JAVA
 ###BFS
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|529|[Minesweeper](https://leetcode.com/problems/minesweeper/?tab=Description)| [JAVA](./BFS/Minesweeper.java)|Medium|
+|529|[Minesweeper](https://leetcode.com/problems/minesweeper/?tab=Description)| [JAVA](./Design/LRUCache.java)|Hard|
+
+###BFS
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)| [JAVA](./BFS/Minesweeper.java)|Hard|
+
 
 ###Hash Table
 | # | Title | Solution | Difficulty |
