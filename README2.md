@@ -27,19 +27,3 @@ My LeetCode Solutions in JAVA
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [JAVA](./Array/PascalsTriangle.java)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [JAVA](./Array/PascalsTriangleII.java)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)| [JAVA](./Array/FindAllDuplicatesinanArray.java)|Medium|
-|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)| [JAVA](./Array/ThirdMaximumNumber.java)|Easy|
-|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)| [JAVA](./Array/RandomizedSet.java)|Medium|
-|381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)| [JAVA](./Array/RandomizedCollection.java)|Hard|
-|283|[MoveZeroes](https://leetcode.com/problems/move-zeroes/)| [JAVA](./Array/MoveZeroes.java)|Easy|
-|268|[Missing Number](https://leetcode.com/problems/missing-number/)| [JAVA](./Array/MissingNumber.java)|Easy|
-|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| [JAVA](./Array/ProductofArrayExceptSelf.java)|Medium|
-|169|[Majority Element](https://leetcode.com/problems/majority-element/)| [JAVA](./Array/MajorityElement.java)|Easy|
-|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)| [JAVA](./Array/MajorityElement2.java)|Medium|
-|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [JAVA](./Array/MergeSortedArray.java)|Easy|
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [JAVA](./Array/RotateArray.java)|Easy|
-|243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/?tab=Description/)| [JAVA](./Array/ShortestWordDistance.java)|Easy|
-|244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/?tab=Description)| [JAVA](./Array/ShortestWordDistanceII.java)|Medium|
-|245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/?tab=Description)| [JAVA](./Array/ShortestWordDistanceIII.java)|Medium|
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/?tab=Description)| [JAVA](./Array/ValidAnagram.java)|Easy|
-
-
