@@ -52,6 +52,7 @@ My LeetCode Solutions in JAVA
 |---| ----- | -------- | ---------- |
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)| [JAVA](./BFS/LRUCache.java)|Hard|
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/)| [JAVA](./BFS/LFUCache.java)|Hard|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)| [JAVA](./BFS/BSTIterator.java)|Medium|
 
 
 ###Hash Table
