@@ -1,7 +1,3 @@
-# LeetCode
-
-My LeetCode Solutions in JAVA
-========
 
 ###Array
 | # | Title | Solution | Difficulty |
