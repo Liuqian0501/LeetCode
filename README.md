@@ -54,6 +54,7 @@ My LeetCode Solutions in JAVA
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/)| [JAVA](./BFS/LFUCache.java)|Hard|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)| [JAVA](./BFS/BSTIterator.java)|Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [JAVA](./BFS/ImplementQueueusingStacks.java)|Easy|
+|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| [JAVA](./BFS/Serialize and DeserializeBinaryTree.java)|Medium|
 
 
 ###Hash Table
