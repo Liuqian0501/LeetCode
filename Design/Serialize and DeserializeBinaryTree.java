@@ -17,24 +17,23 @@ public class Codec {
         map.put(-1, Integer.MIN_VALUE);
         pharseTree(root,0,map);
         int size = map.get(-1)+1;
-        int[] c = new int[size];
+        StringBuilder res = new StringBuilder();
         for(int i = 0; i< size; i++){
             if(map.containsKey(i)){
-                c[i] = map.get(i); 
+                res.append(map.get(i)+" "); 
             }else{
-                c[i] = Integer.MAX_VALUE;
+                res.append("n ");
             }
         }
         //System.out.println(Arrays.toString(c));
-        return Arrays.toString(c);
+        return res.toString();
         
     }
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
         if(data == null) return null;
-        data = data.substring(1,data.length()-1);
-        String[] ary = data.split(", ");
+        String[] ary = data.split(" ");
         TreeNode root = new TreeNode(Integer.parseInt(ary[0]));
         root.left = buildTree(ary, 1);
         root.right = buildTree(ary,2);
@@ -54,11 +53,11 @@ public class Codec {
         if(index > ary.length - 1 ) {
             return null;
         }
-        int a = Integer.parseInt(ary[index]);
-        if(a == Integer.MAX_VALUE){
+        String a = ary[index];
+        if(a.equals("n")){
             return null;
         }else{
-            TreeNode node = new TreeNode(a);
+            TreeNode node = new TreeNode(Integer.parseInt(a));
             node.left = buildTree(ary, 2*index + 1);
             node.right = buildTree(ary, 2*index + 2);
             return node;
