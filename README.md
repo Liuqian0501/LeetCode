@@ -85,6 +85,8 @@ My LeetCode Solutions in JAVA
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |139|[Word Break](https://leetcode.com/problems/word-break/)| [JAVA](./DFS/WordBreak/)|Medium|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/#/description)| [JAVA](./DFS/NumberofIslands.java/)|Medium|
+
 
 ###Linked list
 | # | Title | Solution | Difficulty |
