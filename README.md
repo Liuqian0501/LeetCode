@@ -124,6 +124,8 @@ My LeetCode Solutions in JAVA
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/?tab=Description)| [JAVA](./Math/NthDigit.java)|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/?tab=Description)| [JAVA](./Math/CountPrimes.java)|Easy|
 |396|[Rotate Function](https://leetcode.com/problems/rotate-function/?tab=Description)| [JAVA](./Math/RotateFunction.java)|Math|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/#/description)| [JAVA](./Math/SumofTwoIntegers.java)|Easy|
+
 
 
 
