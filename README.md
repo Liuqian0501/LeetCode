@@ -143,6 +143,8 @@ My LeetCode Solutions in JAVA
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/?tab=Description)| [JAVA](./String/FirstUniqChar.java)|Easy|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/first-unique-character-in-a-string/?tab=Description)| [JAVA](./String/RepeatedSubstringPattern.java)|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/?tab=Description)| [JAVA](./String/AddStrings.java)|Easy|
+|3|[Length Of Longest Substring](https://leetcode.com/problems/add-strings/?tab=Description)| [JAVA](./String/LengthOfLongestSubstring.java)|Medium|
+
 
 
 
