@@ -125,6 +125,7 @@ My LeetCode Solutions in JAVA
 |204|[Count Primes](https://leetcode.com/problems/count-primes/?tab=Description)| [JAVA](./Math/CountPrimes.java)|Easy|
 |396|[Rotate Function](https://leetcode.com/problems/rotate-function/?tab=Description)| [JAVA](./Math/RotateFunction.java)|Math|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/#/description)| [JAVA](./Math/SumofTwoIntegers.java)|Easy|
+|13|[SRoman to Integer](https://leetcode.com/problems/roman-to-integer/)| [JAVA](./Math/RomanToInt.java)|Easy|
 
 
 
