@@ -1,4 +1,6 @@
 public class Solution {
+    https://leetcode.com/problems/permutations/#/description
+    
     //The basic idea is to check every value at each position, if index i can have value n, then remove n from the choice set and solve the subproblem using the same algothm. Complete choice property.
     public List<List<Integer>> permute(int[] nums) {
         if(nums == null || nums.length == 0) return null;
