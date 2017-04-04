@@ -1,12 +1,13 @@
 //https://leetcode.com/problems/friend-circles/#/description
 public class Solution {
     class UnionFind {
+        private int[] parent,rank;//rank = level of that node, parent[i] = parent of node i
         private int count = 0;
-        private int[] parent;
         
         public UnionFind(int n) {
             count = n;
             parent = new int[n];
+            rank = new int[n];
             Arrays.fill(parent, -1);
         }
         
@@ -14,18 +15,30 @@ public class Solution {
             if(parent[p] == -1) return p;
             return find(parent[p]);
         }
-        
+        public boolean connected(int p, int q){
+            int rootP = find(p);
+            int rootQ = find(q);
+            return rootP == rootQ ? true : false;//connected or not
+        }
         public void union(int p, int q) {
             int rootP = find(p);
             int rootQ = find(q);
-            if (rootP == rootQ) return;//same tree
-            parent[rootP] = rootQ;//rootQ is our new root
+            if (rootP == rootQ) return;//same set
+            if (rank[rootQ] > rank[rootP]) {
+                parent[rootP] = rootQ;//rootQ is our new root
+            }
+            else {
+                parent[rootQ] = rootP;
+                if (rank[rootP] == rank[rootQ]) {
+                    rank[rootP]++;//rootP is our new root
+                }
+            }
             count--;
         }
-        
-        public int count() {
+        public int count(){
             return count;
         }
+
     }
     
     public int findCircleNum(int[][] M) {
