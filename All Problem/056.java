@@ -17,6 +17,7 @@ public class Solution {
     	for (int i = 0; i < n; i++) {
     		starts[i] = intervals.get(i).start; // start[i] 对应的是第i段的开头
     		ends[i] = intervals.get(i).end;//ends[i]对应的是第i段的结尾
+            //这样处理后得到的interval和之前的是一致的。
     	}
     	Arrays.sort(starts);
     	Arrays.sort(ends);
