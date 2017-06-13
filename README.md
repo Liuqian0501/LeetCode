@@ -43,12 +43,14 @@ My LeetCode Solutions in JAVA
 |245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/?tab=Description)| [JAVA](./Array/ShortestWordDistanceIII.java)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/?tab=Description)| [JAVA](./Array/ValidAnagram.java)|Easy|
 
-###BFS
+# BFS
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |529|[Minesweeper](https://leetcode.com/problems/minesweeper/?tab=Description)| [JAVA](./BFS/Minesweeper.java)|Hard|
 
-###Design
+# Design
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)| [JAVA](./BFS/LRUCache.java)|Hard|
@@ -58,7 +60,8 @@ My LeetCode Solutions in JAVA
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| [JAVA](./BFS/Serialize and DeserializeBinaryTree.java)|Medium|
 
 
-###Hash Table
+# Hash Table
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate-ii/?tab=Description)| [JAVA](./Array/ContainsDuplicate.java)|Easy|
@@ -76,20 +79,23 @@ My LeetCode Solutions in JAVA
 |49|[Group Anagrams](https://leetcode.com/problems/anagrams/?tab=Description)| [JAVA](./Hash Table/GroupAnagrams.java)|Medium|
 
 
-###Divide and Conquer
+# Divide and Conquer
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/?tab=Description)| [JAVA](./Divide and Conquer/FindKthLargest.java)|Easy|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2D-matrix-ii/?tab=Description)| [JAVA](./Divide and Conquer/Searcha2DMatrixII.java)|Medium|
 
-###DFS
+# DFS
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |139|[Word Break](https://leetcode.com/problems/word-break/)| [JAVA](./DFS/WordBreak/)|Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/#/description)| [JAVA](./DFS/NumberofIslands.java/)|Medium|
 
 
-###Linked list
+# Linked list
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [JAVA](./Linked List/LinkedListCycle.java)|Easy|
@@ -105,7 +111,8 @@ My LeetCode Solutions in JAVA
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [JAVA](./Linked List/AddTwoNumbers.java)|Medium|
 
 
-###Queue
+# Queue
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/?tab=Description)| [JAVA](./Queue/MovingAverage.java)|Easy|
@@ -113,7 +120,8 @@ My LeetCode Solutions in JAVA
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/?tab=Description)| [JAVA](./Queue/PopulatingNextRightPointersinEachNode.java)|Medium|
 
 
-###Math
+# Math
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [JAVA](./Math/IsPalindrome.java)|Easy|
@@ -132,7 +140,8 @@ My LeetCode Solutions in JAVA
 
 
 
-###String
+# String
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [JAVA](./String/ValidPalindrome.java)|Easy|
@@ -150,7 +159,8 @@ My LeetCode Solutions in JAVA
 
 
 
-###Bit Manipulation
+# Bit Manipulation
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/?tab=Description)| [JAVA](./Bit Manipulation/IsPowerOfFour.java)|Easy|
@@ -163,7 +173,8 @@ My LeetCode Solutions in JAVA
 |476|[Number Complement](https://leetcode.com/problems/number-complement/?tab=Description)| [JAVA](./Bit Manipulation/NumberComplement.java)|Easy|
 
 
-###Binary Search
+# Binary Search
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [JAVA](./Binary Search/FirstBadVersion.java)|Easy|
@@ -174,7 +185,8 @@ My LeetCode Solutions in JAVA
 |50|[Pow(x,n)](https://leetcode.com/problems/powx-n/)| [JAVA](./Binary Search/powxn.java)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [JAVA](./Binary Search/Searcha2DMatrix.java)|Medium|
 
-###Dynamic Programming
+# Dynamic Programming
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/?tab=Description)| [JAVA](./Dynamic Programming/RangeSumQueryImmutable.java)|Easy|
@@ -190,7 +202,8 @@ My LeetCode Solutions in JAVA
 
 
 
-###Back Tracking
+# Back Tracking
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [JAVA](./Back Tracking/LetterCombinations.java)|Medium|
@@ -205,19 +218,22 @@ My LeetCode Solutions in JAVA
 
 
 
-###Two Pointers
+# Two Pointers
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |475|[Heaters](https://leetcode.com/problems/heaters/?tab=Description)| [JAVA](./Two Pointers/heaters.java)|Easy|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/?tab=Description)| [JAVA](./Two Pointers/KdiffPairsinanArray.java)|Easy|
 
-###Stack
+# Stack
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parenthese/?tab=Description)| [JAVA](./Stack/ValidParenteses.java)|Easy|
 
 
-###Tree
+# Tree
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |213|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/?tab=Description)| [JAVA](./Tree/BinaryTreeLevelOrderTraversalII.java)|Easy|
