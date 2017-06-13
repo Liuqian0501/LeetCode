@@ -95,7 +95,7 @@ My LeetCode Solutions in JAVA
 
 
 # Linked list
-https://github.com/Liuqian0501/LeetCode/tree/master/Linked%20List
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [JAVA](./Linked List/LinkedListCycle.java)|Easy|
