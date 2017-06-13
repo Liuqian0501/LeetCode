@@ -222,7 +222,7 @@ My LeetCode Solutions in JAVA
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|475|[Heaters](https://leetcode.com/problems/heaters/?tab=Description)| [JAVA](./Two Pointers/heaters.java)|Easy|
+|475|[Heaters](https://leetcode.com/problems/heaters/?tab=Description)| [JAVA](./Two  Pointers/heaters.java)|Easy|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/?tab=Description)| [JAVA](./Two Pointers/KdiffPairsinanArray.java)|Easy|
 
 # Stack
