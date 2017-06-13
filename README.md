@@ -3,7 +3,7 @@
 My LeetCode Solutions in JAVA
 ========
 
-###Array
+# Array
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
